@@ -1,3 +1,8 @@
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #define N 8
 #define fs 8000
 #include <math.h>
